@@ -1,6 +1,6 @@
 ## Installation
 ```bash 
-compoer update
+composer update
 cp .env.example .env
 ```
 # After connecting database
